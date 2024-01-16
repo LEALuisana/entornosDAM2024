@@ -3,6 +3,8 @@ package ejemploThis;
 public class Principal {
 
 	public static void main(String[] args) {
+
+		System.out.println("Hola!");
 		Rectangulo rect1 = new Rectangulo (5,7);
 		rect1.imprimirInfo();
 		
