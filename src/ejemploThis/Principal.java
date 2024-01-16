@@ -20,6 +20,7 @@ public class Principal {
 		System.out.println(rect2.hashCode());
 		System.out.println(rect2.toString());
 
+		System.out.println("Bye.");
 	}
 
 }
